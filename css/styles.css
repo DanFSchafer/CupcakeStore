@@ -7,3 +7,16 @@ h1 {
   color: red;
   font-weight: bolder;
 }
+
+.column1 {
+  width: 50px;
+  float: left;
+}
+
+img {
+  float: left;
+}
+
+.makesidebar {
+  float: right;
+}

@@ -1,6 +1,10 @@
 h1 {
-  color: red;
-  font-style: oblique;
+  color: #8A15CC;
+<!-- Comment like this -->  font-style: oblique;
+  text-align: center;
+  font-weight: bold;
+<!-- Comment like this -->   font-size: 18pt;
+  line-height: 30pt;
 }
 
 .flashy {
@@ -9,14 +13,16 @@ h1 {
 }
 
 .column1 {
-  width: 50px;
-  float: left;
+<!-- Comment like this --> width: 80px;
+<!-- Comment like this -->  float: left;
 }
 
 img {
-  float: left;
+ float: right;
 }
 
 .makesidebar {
-  float: right;
+<!-- Comment like this -->  float: right;
 }
+
+<!-- Comment like this -->

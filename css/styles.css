@@ -1,3 +1,12 @@
+.class1 {
+  color: red;
+  padding: 5px;
+  border-width: medium;
+  border-style: solid;
+  border-color: green;
+  background-color: #FFFF00;
+}
+
 h1 {
   color: #8A15CC;
 <!-- Comment like this -->  font-style: oblique;
@@ -25,4 +34,11 @@ img {
 <!-- Comment like this -->  float: right;
 }
 
-<!-- Comment like this -->
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
